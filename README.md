@@ -6,7 +6,8 @@ Meu nome é **Alexandre Vieira de Souza**, casado om uma esposa maravilhosa, pai
 - 🎓 Atualmente sou estudante do **Curso Superior de Tecnologia em Cibersegurança**.
 - 💻 Apaixonado por informática e tecnologia.
 - 🐧 Usuário **GNU/Linux Slackware**.
-- 📚 Autodidata em **aprendizagem da linguagem de programação Java**.
+- 📚 Estudo de forma autodidata a linguagem de programação **Java**, com foco em desenvolver habilidades práticas e aplicáveis ao mercado.
+
 
 ## Interesses
 - Segurança da Informação e Cibersegurança.
