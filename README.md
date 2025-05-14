@@ -1,23 +1,54 @@
 # Olá! 👋 Bem-vindo ao meu GitHub!
 
-Meu nome é **Alexandre Vieira de Souza**, casado om uma esposa maravilhosa, pai de uma filha e temos uma cachorra adorável chamada **Amora**. 🐾
+Sou o **Alexandre Vieira de Souza**, casado com uma esposa maravilhosa, pai de uma filha incrível e cuidador das nossas duas pets adoráveis: 🐾 **Amora** e **Yuna**.
 
-## Sobre mim
-- 🎓 Atualmente sou estudante do **Curso Superior de Tecnologia em Cibersegurança**.
-- 💻 Apaixonado por informática e tecnologia.
-- 🐧 Usuário **GNU/Linux Slackware**.
-- 📚 Estudo de forma autodidata temas relacionados à tecnologia e informática, com ênfase no desenvolvimento de habilidades práticas e aplicáveis ao mercado. Atualmente, venho me dedicando ao aprendizado da linguagem de programação Java e à área de cibersegurança
-
-
-## Interesses
-- Segurança da Informação e Cibersegurança.
-- Desenvolvimento em Java.
-- Sistemas operacionais baseados em GNU/Linux.
-- Exploração de novas tecnologias e aprendizado contínuo.
-
-## Vamos nos conectar!
-- 🌐 [Meu GitHub](https://github.com/avsouza-es)
-- 📧 Entre em contato: **avsouza.es2@email.com**
+Além da vida familiar, sou um apaixonado por **tecnologia, informática e cibersegurança**, sempre em busca de aprender e aplicar conhecimentos práticos e atualizados.  
+Estou animado em compartilhar minha jornada de aprendizado e evolução técnica com vocês!
 
 ---
-Obrigado por visitar meu perfil! 🚀
+
+## 🎓 Formação Acadêmica
+🎓 **Curso Superior de Tecnologia em Cibersegurança** – Em andamento
+
+---
+
+## 💻 Sobre Mim
+- Apaixonado por tecnologia e soluções práticas  
+- Estudante dedicado e autodidata  
+- Focado em habilidades técnicas aplicáveis ao mercado  
+- Usuário diário de **GNU/Linux** nas distros: **Slackware (principal), Debian e Ubuntu**
+
+---
+
+## 🧠 Estudos Atuais
+- **Java** – Fundamentos e desenvolvimento orientado a objetos  
+- **GNU/Linux** – Aprimorando conhecimentos técnicos e preparação para certificação **LPIC-1**  
+- **Cibersegurança** – Explorando conceitos teóricos e práticos na área de segurança da informação
+
+---
+
+## 🔍 Meus Interesses Técnicos
+🔧 Segurança da Informação • Desenvolvimento Java • GNU/Linux • Automação • Aprendizado Contínuo
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+![Java](https://img.shields.io/badge/Java-Frontier-blue?logo=java&logoColor=white )
+![Linux](https://img.shields.io/badge/Linux--0078D4?logo=linux&logoColor=white )
+![LPIC](https://img.shields.io/badge/LPIC--1-RedHat-orange?logo=gnu&logoColor=white )
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white )
+![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white )
+
+---
+
+## 🔗 Redes Profissionais
+🔗 [LinkedIn](http://www.linkedin.com/in/avsouzaes)  
+🐱 [GitHub](https://github.com/avsouza-es )  
+✉️ **E-mail**: [avsouza.es2@email.com](mailto:avsouza.es2@email.com)
+
+---
+
+> 🚀 *"Aprendizado contínuo é a chave para evoluir na tecnologia."*
+
+Obrigado por visitar meu perfil! 🌟
