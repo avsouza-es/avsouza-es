@@ -33,12 +33,8 @@ Estou animado em compartilhar minha jornada de aprendizado e evolução técnica
 ---
 
 ## 🛠️ Habilidades Técnicas
-
-![Java](https://img.shields.io/badge/Java-Frontier-blue?logo=java&logoColor=white )
 ![Linux](https://img.shields.io/badge/Linux--0078D4?logo=linux&logoColor=white )
-![LPIC](https://img.shields.io/badge/LPIC--1-RedHat-orange?logo=gnu&logoColor=white )
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white )
-![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white )
+
 
 ---
 
