@@ -116,8 +116,9 @@ Collection of scripts for system administration and security automation.
 
 ## 🤝 Connect With Me
 
-- LinkedIn
-- GitHub
+🔗 [LinkedIn](http://www.linkedin.com/in/avsouzaes)  
+🐱 [GitHub](https://github.com/avsouza-es )  
+✉️ **E-mail**: [avsouza.es2@gmail.com](mailto:avsouza.es2@gmail.com)
 
 ---
 
@@ -243,8 +244,9 @@ Coleção de scripts para automação de tarefas administrativas e de segurança
 
 ## 🤝 Conecte-se Comigo
 
-- LinkedIn
-- GitHub
+🔗 [LinkedIn](http://www.linkedin.com/in/avsouzaes)  
+🐱 [GitHub](https://github.com/avsouza-es )  
+✉️ **E-mail**: [avsouza.es2@gmail.com](mailto:avsouza.es2@gmail.com)
 
 ---
 
@@ -252,12 +254,6 @@ Coleção de scripts para automação de tarefas administrativas e de segurança
 
 ---
 
-## 🔗 Redes Profissionais
-🔗 [LinkedIn](http://www.linkedin.com/in/avsouzaes)  
-🐱 [GitHub](https://github.com/avsouza-es )  
-✉️ **E-mail**: [avsouza.es2@gmail.com](mailto:avsouza.es2@gmail.com)
-
----
 
 > 🚀 *"Aprendizado contínuo é a chave para evoluir na tecnologia."*
 
