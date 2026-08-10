@@ -1,50 +1,265 @@
-# Olá! 👋 Bem-vindo ao meu GitHub!
+# Alexandre Vieira de Souza
 
-Sou o **Alexandre Vieira de Souza**, casado com uma esposa maravilhosa, pai de uma filha incrível e cuidador das nossas duas pets adoráveis: 🐾 **Amora** e **Yuna**.
+# 🇺🇸 English
 
-Além da vida familiar, sou um apaixonado por **tecnologia, informática e cibersegurança**, sempre em busca de aprender e aplicar conhecimentos práticos e atualizados.  
-Estou animado em compartilhar minha jornada de aprendizado e evolução técnica com vocês!
+## Hello, I'm Alexandre! 👋
 
----
+IT Professional and Cybersecurity student passionate about GNU/Linux, Infrastructure, Automation and Information Security.
 
-## 🎓 Formação Acadêmica
-🎓 **Curso Superior de Tecnologia em Cibersegurança** – Em andamento
+Currently focusing on Linux Administration, Defensive Security (Blue Team), Vulnerability Management and automation using Bash and Python.
 
----
-
-## 💻 Sobre Mim
-- Apaixonado por tecnologia e soluções práticas  
-- Estudante dedicado e autodidata  
-- Focado em habilidades técnicas aplicáveis ao mercado  
-- Usuário diário de **GNU/Linux** nas distros: **Slackware (principal), Debian e Ubuntu**
+My long-term goal is to work in Offensive Security and Penetration Testing, building a strong foundation in Infrastructure and Security before moving into offensive roles.
 
 ---
 
-## 🧠 Estudos Atuais
-- **Java** – Fundamentos e desenvolvimento orientado a objetos  
-- **GNU/Linux** – Aprimorando conhecimentos técnicos e preparação para certificação **LPIC-1**  
-- **Cibersegurança** – Explorando conceitos teóricos e práticos na área de segurança da informação
+## 🎯 Areas of Interest
+
+- Linux Administration
+- IT Infrastructure
+- Information Security
+- Blue Team Operations
+- Vulnerability Management
+- DevOps and Cloud
+- Bash and Python Automation
+- Penetration Testing
 
 ---
 
-## 🔍 Meus Interesses Técnicos
-🔧 Segurança da Informação • Desenvolvimento Java • GNU/Linux • Automação • Aprendizado Contínuo
+## 🚀 Currently Learning
+
+- Linux Administration
+- System Hardening
+- Computer Networks
+- Bash Scripting
+- Python
+- ISO 27001 / ISO 27002
+- Vulnerability Management
+- SOC Operations
 
 ---
 
-## 🛠️ Habilidades Técnicas
-![Linux](https://img.shields.io/badge/Linux--0078D4?logo=linux&logoColor=white )
+## 🛠️ Technologies and Tools
 
+### Operating Systems
+
+- Slackware Linux
+- Debian Linux
+- Ubuntu Linux
+- Kali Linux
+
+### Infrastructure
+
+- SSH
+- VirtualBox
+- Proxmox
+- Docker
+- TCP/IP Networking
+
+### Security
+
+- Nmap
+- Wireshark
+- Burp Suite
+- Metasploit
+- OWASP Top 10
+- Wazuh (learning)
+
+### Languages
+
+- Bash
+- Python
+- Java
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Cybersecurity Portfolio
+
+Documentation of my cybersecurity journey, labs, notes and security-related tools.
+
+### 🔹 Linux Homelab
+
+Personal lab environment focused on:
+
+- Linux
+- Networking
+- Virtualization
+- Hardening
+- Monitoring
+
+### 🔹 Bash Automation
+
+Collection of scripts for system administration and security automation.
+
+---
+
+## 📜 Certifications
+
+- Introduction to ISO 27000 and Information Security Standards
+- Security by Design Fundamentals
+- Cybersecurity Terminology Awareness
+- Introduction to Linux
+- Python for Non-Programmers
+
+---
+
+## 📈 2026 Goals
+
+- Achieve Linux Essentials certification
+- Achieve ISC2 Certified in Cybersecurity (CC)
+- Build a complete Blue Team lab
+- Develop custom Python security tools
+- Publish technical writeups regularly
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn
+- GitHub
+
+---
+
+> "Continuous learning is the best investment in a technology career."
+
+
+---
+# Alexandre Vieira de Souza
+
+# 🇧🇷 Português
+
+## Eu sou Alexandre! 👋
+
+Profissional de TI e estudante de Cibersegurança apaixonado por GNU/Linux, Infraestrutura, Automação e Segurança da Informação.
+
+Atualmente concentro meus estudos em Administração Linux, Segurança Defensiva (Blue Team), Gestão de Vulnerabilidades e Automação utilizando Bash e Python.
+
+Meu objetivo de longo prazo é atuar na área de Offensive Security e Pentest, construindo uma base sólida em Infraestrutura e Segurança antes de avançar para atividades ofensivas.
+
+---
+
+## 🎯 Áreas de Interesse
+
+- Administração Linux
+- Infraestrutura de TI
+- Segurança da Informação
+- Blue Team
+- Gestão de Vulnerabilidades
+- DevOps e Cloud
+- Automação com Bash e Python
+- Pentest
+
+---
+
+## 🚀 Atualmente Estudando
+
+- Linux Administration
+- Hardening de Sistemas
+- Redes de Computadores
+- Bash Scripting
+- Python
+- ISO 27001 / ISO 27002
+- Vulnerability Management
+- SOC Operations
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Sistemas Operacionais
+
+- Slackware Linux
+- Debian Linux
+- Ubuntu Linux
+- Kali Linux
+
+### Infraestrutura
+
+- SSH
+- VirtualBox
+- Proxmox
+- Docker
+- Redes TCP/IP
+
+### Segurança
+
+- Nmap
+- Wireshark
+- Burp Suite
+- Metasploit
+- OWASP Top 10
+- Wazuh (em aprendizado)
+
+### Linguagens
+
+- Bash
+- Python
+- Java
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🔹 Cybersecurity Portfolio
+
+Documentação da minha jornada em Cibersegurança, laboratórios, anotações e ferramentas desenvolvidas.
+
+### 🔹 Linux Homelab
+
+Laboratório pessoal utilizado para estudar:
+
+- Linux
+- Redes
+- Virtualização
+- Hardening
+- Monitoramento
+
+### 🔹 Bash Automation
+
+Coleção de scripts para automação de tarefas administrativas e de segurança.
+
+---
+
+## 📜 Certificações
+
+- Introdução à ISO 27000 e Padrões de Segurança da Informação
+- Fundamentos da Segurança desde a Concepção
+- Terminologia de Cibersegurança
+- Introduction to Linux
+- Python para Não Programadores
+
+---
+
+## 📈 Objetivos para 2026
+
+- Obter certificação Linux Essentials
+- Obter certificação ISC2 Certified in Cybersecurity (CC)
+- Construir laboratório Blue Team completo
+- Desenvolver ferramentas próprias em Python
+- Publicar writeups e estudos técnicos regularmente
+
+---
+
+## 🤝 Conecte-se Comigo
+
+- LinkedIn
+- GitHub
+
+---
+
+> "Aprendizado contínuo é o investimento com o maior retorno na área de tecnologia."
 
 ---
 
 ## 🔗 Redes Profissionais
 🔗 [LinkedIn](http://www.linkedin.com/in/avsouzaes)  
 🐱 [GitHub](https://github.com/avsouza-es )  
-✉️ **E-mail**: [avsouza.es2@email.com](mailto:avsouza.es2@email.com)
+✉️ **E-mail**: [avsouza.es2@gmail.com](mailto:avsouza.es2@gmail.com)
 
 ---
 
 > 🚀 *"Aprendizado contínuo é a chave para evoluir na tecnologia."*
+
 
 Obrigado por visitar meu perfil! 🌟
