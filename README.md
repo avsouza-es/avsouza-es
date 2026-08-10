@@ -14,7 +14,7 @@ My long-term goal is to work in Offensive Security and Penetration Testing, buil
 
 ## 🎯 Areas of Interest
 
-- Linux Administration
+- GNU/Linux Administration
 - IT Infrastructure
 - Information Security
 - Blue Team Operations
@@ -27,7 +27,7 @@ My long-term goal is to work in Offensive Security and Penetration Testing, buil
 
 ## 🚀 Currently Learning
 
-- Linux Administration
+- GNU/Linux Administration
 - System Hardening
 - Computer Networks
 - Bash Scripting
@@ -42,10 +42,11 @@ My long-term goal is to work in Offensive Security and Penetration Testing, buil
 
 ### Operating Systems
 
-- Slackware Linux
-- Debian Linux
-- Ubuntu Linux
-- Kali Linux
+- Slackware GNU/Linux
+- Debian GNU/Linux
+- Ubuntu GNU/Linux
+- Kali GNU/Linux
+- Parrot GNU/Linux
 
 ### Infrastructure
 
@@ -59,16 +60,15 @@ My long-term goal is to work in Offensive Security and Penetration Testing, buil
 
 - Nmap
 - Wireshark
-- Burp Suite
-- Metasploit
+- Burp Suite (learning)
+- Metasploit (learning)
 - OWASP Top 10
 - Wazuh (learning)
 
 ### Languages
 
 - Bash
-- Python
-- Java
+- Python (learning)
 
 ---
 
@@ -82,7 +82,7 @@ Documentation of my cybersecurity journey, labs, notes and security-related tool
 
 Personal lab environment focused on:
 
-- Linux
+- GNU/Linux
 - Networking
 - Virtualization
 - Hardening
@@ -94,7 +94,7 @@ Collection of scripts for system administration and security automation.
 
 ---
 
-## 📜 Certifications
+## 📜 Courses
 
 - Introduction to ISO 27000 and Information Security Standards
 - Security by Design Fundamentals
@@ -142,7 +142,7 @@ Meu objetivo de longo prazo é atuar na área de Offensive Security e Pentest, c
 
 ## 🎯 Áreas de Interesse
 
-- Administração Linux
+- Administração GNU/Linux
 - Infraestrutura de TI
 - Segurança da Informação
 - Blue Team
@@ -155,7 +155,7 @@ Meu objetivo de longo prazo é atuar na área de Offensive Security e Pentest, c
 
 ## 🚀 Atualmente Estudando
 
-- Linux Administration
+- GNU/Linux Administration
 - Hardening de Sistemas
 - Redes de Computadores
 - Bash Scripting
@@ -170,10 +170,10 @@ Meu objetivo de longo prazo é atuar na área de Offensive Security e Pentest, c
 
 ### Sistemas Operacionais
 
-- Slackware Linux
-- Debian Linux
-- Ubuntu Linux
-- Kali Linux
+- Slackware GNU/Linux
+- Debian GNU/Linux
+- Ubuntu GNU/Linux
+- Kali GNU/Linux
 
 ### Infraestrutura
 
@@ -187,7 +187,7 @@ Meu objetivo de longo prazo é atuar na área de Offensive Security e Pentest, c
 
 - Nmap
 - Wireshark
-- Burp Suite
+- Burp Suite (em aprendizado)
 - Metasploit
 - OWASP Top 10
 - Wazuh (em aprendizado)
@@ -195,8 +195,7 @@ Meu objetivo de longo prazo é atuar na área de Offensive Security e Pentest, c
 ### Linguagens
 
 - Bash
-- Python
-- Java
+- Python (em aprendizado)
 
 ---
 
@@ -210,7 +209,7 @@ Documentação da minha jornada em Cibersegurança, laboratórios, anotações e
 
 Laboratório pessoal utilizado para estudar:
 
-- Linux
+- GNU/Linux
 - Redes
 - Virtualização
 - Hardening
@@ -222,7 +221,7 @@ Coleção de scripts para automação de tarefas administrativas e de segurança
 
 ---
 
-## 📜 Certificações
+## 📜 Cursos
 
 - Introdução à ISO 27000 e Padrões de Segurança da Informação
 - Fundamentos da Segurança desde a Concepção
